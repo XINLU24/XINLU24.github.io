@@ -81,7 +81,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 - 2020 - 2022, Research on Key Technology of Design and manufacture of high-performance gears, the Program of Hunan Provincial Natural Science Foundation of China
     - To address the robustness limitations of traditional meshing equations, this work studied an innovative algorithm for the tooth contact performance of gears.
     - Established a novel computation model by analyzing the kinematic relationship in the meshing process of face gear drives and reducing calculated parameters.
-    - Proposed a stable and efficient two-stage algorithm, combining particle swarm optimization and the Quasi-Newton method.
+    - Proposed a stable and efficient two-stage algorithm to search the meshing points.
     - The algorithm offers high computational efficiency and stability. A research paper has been published.
 
 # 🧑‍🎨 Work Experience
@@ -89,9 +89,19 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 Research Assistant (Part-time), Research activities
 - July 2023 - Present, Jieyang Haoli Footwear Factory, Guangdong (Family business) <br />
 Assist with manufacturing, management, and online sales of rain boots, children’s shoes, and scandals.
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Conferences & Other activities
+- August 2023, The 11th International Symposium of Computer Numerical Control Manufacturing <br />
+Oral presentation topic: The strategy for the minimal influence of the workpiece coordinate system in the measurement of face gears considering multi-objectives of deviations	
+- June 2022, The 10th International Symposium of Computer Numerical Control Manufacturing <br />
+Oral presentation topic: Tooth Contact Analysis for Face Gears Reconstructed from Point Clouds based on the Optical Measurement
+- Apr. 2021, Metrology Certificate NO. ZLPX20210265 (National Institute of Metrology, China)
+- Sep. 2019 - Jul. 2020, Community Volunteer Teaching Service
+- Jul. 2019, Internship in CRRC (China Railway Rolling Stock Corp) 
+
+# 🎙 Basic Skills
+- Language Skill: Chinese, Southern Min (Teochew), English (IELTS 6.5: S7, W6, R7, L5.5)
+- Writing Skill: Academic Writing, Technical Writing (Project applications)
+- Computer Skill: Proficient in some specialized software, like MATLAB, Python, CATIA, Abaqus, etc., and software development (Developed over fifty thousand lines of code, including our core algorithms).
+- Operation Skill: Proficient in operating and controlling machines, such as coordinate measuring machines, 3D scanners, and machine tools.
+
