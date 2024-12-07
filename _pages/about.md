@@ -38,7 +38,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -53,7 +53,12 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 **Research paper** (**Average Citation 7.33**, (TOP 5 Journal in Mechanical Engineering, JIF 7.3)):
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 1.	**X. Lu**, Y. Zhou, et al. A novel mathematical model for the accurate measurement of face gears by considering the geometric deviations of multiple teeth, Measurement, 231 (2024) 114545. [DOI: 10.1016/j.measurement.2024.114545](https://doi.org/10.1016/j.measurement.2024.114545) **(First author, SCI Q1, TOP 10%)**
+</div>
+</div>
+
 2.	**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. [DOI: 10.1016/j.mechmachtheory.2022.104960](https://doi.org/10.1016/j.mechmachtheory.2022.104960) **(First author, SCI Q1, TOP 10%, SCI Citation 13)**
 3.	**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8)**
 
