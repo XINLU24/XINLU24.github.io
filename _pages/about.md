@@ -65,15 +65,22 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 **Master's Dissertation:**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Master.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
+
+</div>
+</div>
 
 **Patent:**
 
 1.	Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
 
+
 # 💻 Research Experience
 - 2021 - 2024, Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China  <br />     	
-2022 - 2024, Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, **Postgraduate Innovation Research Project (Principal Investigator)**      	
+  2022 - 2024, Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, **Postgraduate Innovation Research Project (Principal Investigator)**      	
     - To address the problem of the high-precision measurement challenges of face gears when using coordinate measuring machines and machine tools, this work analyzed key measurement error factors and developed compensation methods through mathematical modeling and data-driven approach.
     - Established a BP neural network for error compensation in the on-machine measurement.
     - Proposed a novel method for establishing the workpiece coordinate system and a multi-objective optimization model for comprehensive error compensation.
@@ -90,7 +97,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
     - Proposed a stable and efficient two-stage algorithm to search the meshing points.
     - The algorithm offers high computational efficiency and stability. A research paper has been published.
 
-# 🧑‍🎨 Work Experience
+# 🎙 Work Experience
 - July 2023 - Present, The College of Mechanical and Electrical Engineering, Central South University <br />
 Research Assistant (Part-time), Research activities
 - July 2023 - Present, Jieyang Haoli Footwear Factory, Guangdong (Family business) <br />
@@ -105,7 +112,7 @@ Oral presentation topic: Tooth Contact Analysis for Face Gears Reconstructed fro
 - Sep. 2019 - Jul. 2020, Community Volunteer Teaching Service
 - Jul. 2019, Internship in CRRC (China Railway Rolling Stock Corp) 
 
-# 🎙 Basic Skills
+# 🧑‍🎨 Basic Skills
 - Language Skill: Chinese, Southern Min (Teochew), English (IELTS 6.5: S7, W6, R7, L5.5)
 - Writing Skill: Academic Writing, Technical Writing (Project applications)
 - Computer Skill: Proficient in some specialized software, like MATLAB, Python, CATIA, Abaqus, etc., and software development (Developed over fifty thousand lines of code, including our core algorithms).
