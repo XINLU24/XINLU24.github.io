@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinxin Lu"
   avatar           : "images/Myphoto.png"
-  bio              : "Mobile & WeChat: +86 18773149238"
+  bio              : "Mobile & WeChat: +86 18773149238<br>
+                      email: luxinxin163@163.com"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "luxinxin163@163.com"
+  email            : #"luxinxin163@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -57,7 +58,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  WeChat           : "+86 18773149238"
 
 
 # Reading Files
