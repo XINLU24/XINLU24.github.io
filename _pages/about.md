@@ -43,7 +43,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, Global Subject Rank 10, ARWU 94), GPA: 3.55/4.0
+- Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, Global Subject Rank 10, ARWU 94), GPA: 3.55/4.0 <br />
                           Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China)
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
