@@ -55,7 +55,9 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 **Research paper** (**Average Citation 7.33**, (TOP 5 Journal in Mechanical Engineering, JIF 7.3)):
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 1.	**X. Lu**, Y. Zhou, et al. A novel mathematical model for the accurate measurement of face gears by considering the geometric deviations of multiple teeth, Measurement, 231 (2024) 114545. [DOI: 10.1016/j.measurement.2024.114545](https://doi.org/10.1016/j.measurement.2024.114545) **(First author, SCI Q1, TOP 10%)**
+
 </div>
 </div>
 
