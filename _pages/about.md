@@ -59,7 +59,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 **Master's Dissertation:**
 
-**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
+*****X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
 
 **Patent:**
 
