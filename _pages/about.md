@@ -31,7 +31,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 - **National Scholarship** (2022, 2%)
 - Honorary Title of **Outstanding Graduate** (2023, 5%), **Outstanding Student** (2022, 2018, 2017)
-- The Stipend of **Postgraduate Exam-exempted Recommendation** in China (2019)
+- The Stipend of **Postgraduate Exam-exempted Recommendation** in China (2020)
 - Academic Scholarships, **First-Class** (2022, 2020), Second-Class (2018), Third-Class (2019, 2017)
 - Third Prize in the College Physics Competition at Central South University (2019)
 
