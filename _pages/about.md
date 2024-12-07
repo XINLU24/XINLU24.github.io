@@ -84,6 +84,11 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
     - Proposed a stable and efficient two-stage algorithm, combining particle swarm optimization and the Quasi-Newton method.
     - The algorithm offers high computational efficiency and stability. A research paper has been published.
 
+# 🧑‍🎨 Work Experience
+- July 2023 - Present, The College of Mechanical and Electrical Engineering, Central South University
+    Assist with manufacturing, management, and online sales of rain boots, children’s shoes, and scandals.
+- July 2023 - Present, Jieyang Haoli Footwear Factory, Guangdong (Family business)
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
