@@ -2,7 +2,7 @@
 main:
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -11,13 +11,13 @@ main:
     url: "/#-publications"
 
   - title: "Research Experience"
-    url: "/#-Research-Experience"
+    url: "/#-research-experience"
 
   - title: "Work Experience"
-    url: "/#-Work-Experience"
+    url: "/#-work-experience"
 
   - title: "Conferences & Other activities"
-    url: "/#-Conferences-&-Other-activities"
+    url: "/#-conferences-&-other-activities"
 
   - title: "Basic Skills"
-    url: "/#-Basic-Skills"
+    url: "/#-basic-skills"
