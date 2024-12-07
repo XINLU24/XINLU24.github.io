@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinxin Lu"
-description              : "A student looking for a PhD position. "
+description              : " "
 repository               : "XINLU24/Xinxin_Lu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinxin Lu"
   avatar           : "images/Myphoto.png"
-  bio              : "Central South University"
+  bio              : ""
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
