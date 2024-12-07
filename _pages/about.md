@@ -55,7 +55,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8)**
