@@ -66,8 +66,8 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 1.	Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
 
 # 💻 Research Experience
-- 2021 - 2024, Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China      	
--	2022 - 2024, Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, **Postgraduate Innovation Research Project (Principal Investigator)**      	
+- 2021 - 2024, Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China  <br />     	
+2022 - 2024, Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, **Postgraduate Innovation Research Project (Principal Investigator)**      	
     - To address the problem of the high-precision measurement challenges of face gears when using coordinate measuring machines and machine tools, this work analyzed key measurement error factors and developed compensation methods through mathematical modeling and data-driven approach.
     - Established a BP neural network for error compensation in the on-machine measurement.
     - Proposed a novel method for establishing the workpiece coordinate system and a multi-objective optimization model for comprehensive error compensation.
