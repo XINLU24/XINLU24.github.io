@@ -85,10 +85,10 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
     - The algorithm offers high computational efficiency and stability. A research paper has been published.
 
 # 🧑‍🎨 Work Experience
-- July 2023 - Present, The College of Mechanical and Electrical Engineering, Central South University
-    Assist with manufacturing, management, and online sales of rain boots, children’s shoes, and scandals.
-- July 2023 - Present, Jieyang Haoli Footwear Factory, Guangdong (Family business)
-
+- July 2023 - Present, The College of Mechanical and Electrical Engineering, Central South University <br />
+Research Assistant (Part-time), Research activities
+- July 2023 - Present, Jieyang Haoli Footwear Factory, Guangdong (Family business) <br />
+Assist with manufacturing, management, and online sales of rain boots, children’s shoes, and scandals.
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
