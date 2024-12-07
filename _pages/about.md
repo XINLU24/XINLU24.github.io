@@ -22,10 +22,6 @@ I received both my bachelor’s and master’s degrees in Mechanical Engineering
 Currently, I am actively seeking a PhD position or a research assistant role with potential for a PhD. My research interest includes computational design, smart manufacturing, or advanced technologies in design and manufacturing like computer vision, VR, or human-robot collaboration.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -47,7 +43,8 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, Global Subject Rank 10, ARWU 94), GPA: 3.55/4.0
+                          Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China)
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
