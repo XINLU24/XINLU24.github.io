@@ -58,9 +58,11 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 3.	**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. DOI: 10.3390/ma15176069 **(First author, SCI Q1, SCI Citation 8)**
 
 **Master's Dissertation:**
+
 **X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
 
 **Patent:**
+
 Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
 
 
