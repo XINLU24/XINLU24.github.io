@@ -68,7 +68,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 # 💻 Research Experience
 - Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China      	2021 - 2024
 -	Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, Postgraduate Innovation Research Project (Principal Investigator)      	2022 - 2024
-    To address the problem of the high-precision measurement challenges of face gears when using coordinate measuring machines and machine tools, this work analyzed key measurement error factors and developed compensation methods through mathematical modeling and data-driven approach.
+    - To address the problem of the high-precision measurement challenges of face gears when using coordinate measuring machines and machine tools, this work analyzed key measurement error factors and developed compensation methods through mathematical modeling and data-driven approach.
 	Established a BP neural network for error compensation in the on-machine measurement.
 	Proposed a novel method for establishing the workpiece coordinate system and a multi-objective optimization model for comprehensive error compensation.
 
