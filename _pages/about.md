@@ -53,9 +53,9 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 **Research paper** (**Average Citation 7.33**, (TOP 5 Journal in Mechanical Engineering, JIF 7.3)):
-1.	**X. Lu**, Y. Zhou, et al. A novel mathematical model for the accurate measurement of face gears by considering the geometric deviations of multiple teeth, Measurement, 231 (2024) 114545. DOI: 10.1016/j.measurement.2024.114545 **(First author, SCI Q1, TOP 10%)**
-2.	**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. DOI: 10.1016/j.mechmachtheory.2022.104960 **(First author, SCI Q1, TOP 10%, SCI Citation 13)**
-3.	**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. DOI: 10.3390/ma15176069 **(First author, SCI Q1, SCI Citation 8)**
+1.	**X. Lu**, Y. Zhou, et al. A novel mathematical model for the accurate measurement of face gears by considering the geometric deviations of multiple teeth, Measurement, 231 (2024) 114545. [DOI: 10.1016/j.measurement.2024.114545](DOI: 10.1016/j.measurement.2024.114545) **(First author, SCI Q1, TOP 10%)**
+2.	**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. [DOI: 10.1016/j.mechmachtheory.2022.104960](DOI: 10.1016/j.mechmachtheory.2022.104960) **(First author, SCI Q1, TOP 10%, SCI Citation 13)**
+3.	**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](DOI: 10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8)**
 
 **Master's Dissertation:**
 
