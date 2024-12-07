@@ -59,11 +59,11 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 **Master's Dissertation:**
 
-*****X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
+1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
 
 **Patent:**
 
-Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
+1.	Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
 
 
 # 💬 Invited Talks
