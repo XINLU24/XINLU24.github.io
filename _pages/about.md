@@ -66,12 +66,23 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 1.	Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
 
 # 💻 Research Experience
-- Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China      	2021 - 2024
--	Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, Postgraduate Innovation Research Project (Principal Investigator)      	2022 - 2024
+- 2021 - 2024, Research on Principle Technology of High Efficiency and Precision by Worm Grinding for Conical Face Gears, the Program of National Natural Science Foundation of China      	
+-	2022 - 2024, Research on High Precision On-machine Measurement Technology of Face Gears based on Machine Learning, **Postgraduate Innovation Research Project (Principal Investigator)**      	
     - To address the problem of the high-precision measurement challenges of face gears when using coordinate measuring machines and machine tools, this work analyzed key measurement error factors and developed compensation methods through mathematical modeling and data-driven approach.
-	Established a BP neural network for error compensation in the on-machine measurement.
-	Proposed a novel method for establishing the workpiece coordinate system and a multi-objective optimization model for comprehensive error compensation.
+    - Established a BP neural network for error compensation in the on-machine measurement.
+    - Proposed a novel method for establishing the workpiece coordinate system and a multi-objective optimization model for comprehensive error compensation.
+    - Improved measurement accuracy of face gears with complex features, resulting in a published research paper, master’s dissertation, a patent, and a software copyright.
 
+- 2020 - 2023, Research on Basic Technology of Precision and Efficient Machining of Face Gears, **National Science and Technology Major Project of China**		                     
+    - To address the limitations of contact metrology in measuring border areas of tooth surfaces and efficiently acquiring large datasets, this work developed an accurate 3D optical scanning solution for measuring gear tooth surfaces.
+    - Proposed method of converting point cloud data into 3D models of real face gear, and performed loaded tooth contact analysis using Abaqus to assess real meshing performance.
+    - The proposed method enables precise measurement of gear surface deviations, including border areas. In this work, I have published a paper and obtained a Chinese software copyright.
+
+- 2020 - 2022, Research on Key Technology of Design and manufacture of high-performance gears, the Program of Hunan Provincial Natural Science Foundation of China
+    - To address the robustness limitations of traditional meshing equations, this work studied an innovative algorithm for the tooth contact performance of gears.
+    - Established a novel computation model by analyzing the kinematic relationship in the meshing process of face gear drives and reducing calculated parameters.
+    - Proposed a stable and efficient two-stage algorithm, combining particle swarm optimization and the Quasi-Newton method.
+    - The algorithm offers high computational efficiency and stability. A research paper has been published.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
