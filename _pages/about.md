@@ -21,6 +21,20 @@ I received both my bachelor’s and master’s degrees in Mechanical Engineering
 
 Currently, I am actively seeking a PhD position or a research assistant role with potential for a PhD. My research interest includes computational design, smart manufacturing, or advanced technologies in design and manufacturing like computer vision, VR, or human-robot collaboration.
 
+# 📖 Educations
+
+- Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, Global Subject Rank 10, ARWU 94), GPA: 3.55/4.0 <br />
+  CSUgear Group led by Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China)
+- Sep. 2016 – Jun. 2020: **Bachelor** of Mechanical Design, Manufacture and Automation, Central South University (USNews 168, ARWU 94), Weighted Average Score: 88.86/100.0 (GPA: 3.75/4.0, Rank 10%)
+
+# 🎖 Honors and Awards
+
+- National Scholarship (2022, 2%)
+- Honorary Title of Outstanding Graduate (2023, 5%), Outstanding Student (2022, 2018, 2017)
+- The Stipend of Postgraduate Exam-exempted Recommendation in China (2019)
+- Academic Scholarships, First-Class (2022, 2020), Second-Class (2018), Third-Class (2019, 2017)
+- Third Prize in the College Physics Competition at Central South University (2019)
+
 
 # 📝 Publications 
 
@@ -38,14 +52,6 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, Global Subject Rank 10, ARWU 94), GPA: 3.55/4.0 <br />
-  CSUgear Group led by Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China)
-- Sep. 2016 – Jun. 2020: **Bachelor** of Mechanical Design, Manufacture and Automation, Central South University (USNews 168, ARWU 94), Weighted Average Score: 88.86/100.0 (GPA: 3.75/4.0, Rank 10%)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
