@@ -120,5 +120,5 @@ Oral presentation topic: Tooth Contact Analysis for Face Gears Reconstructed fro
 - Computer Skill: Proficient in some specialized software, like MATLAB, Python, CATIA, Abaqus, etc., and software development (Developed over fifty thousand lines of code, including our core algorithms).
 - Operation Skill: Proficient in operating and controlling machines, such as coordinate measuring machines, 3D scanners, and machine tools.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&center=true&width=435&lines=Thanks+for+reading!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&center=true&width=435&lines=Thanks+for+reading!)
 
