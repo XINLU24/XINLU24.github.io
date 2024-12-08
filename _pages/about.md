@@ -17,6 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&center=true&width=435&lines=Hi!+Welcome+to+Xinxin+Lu's+homepage!)](https://git.io/typing-svg)
 
 I received both my bachelor’s and master’s degrees in Mechanical Engineering from Central South University. During my studies, my research focused on developing algorithms and optimization methods to address high-performance gear design and manufacturing challenges.
