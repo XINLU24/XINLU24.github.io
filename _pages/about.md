@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SVG1.svg' alt="sym" width="100%"></div></div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&center=true&width=435&lines=Hi!+Welcome+to+Xinxin+Lu's+homepage!)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&center=true&width=435&lines=Hi!+Welcome+to+Xinxin+Lu's+homepage!)](https://git.io/typing-svg)
 
 I received both my bachelor’s and master’s degrees in Mechanical Engineering from Central South University. During my studies, my research focused on developing algorithms and optimization methods to address high-performance gear design and manufacturing challenges.
 
