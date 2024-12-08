@@ -47,7 +47,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='images/Paper2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 2.**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. [DOI: 10.1016/j.mechmachtheory.2022.104960](https://doi.org/10.1016/j.mechmachtheory.2022.104960) **(First author, SCI Q1, TOP 10%, SCI Citation 13)**
@@ -55,7 +55,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8)**
@@ -65,7 +65,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 **Master's Dissertation:**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cs.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Master.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
