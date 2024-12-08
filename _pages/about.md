@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&pause=1000&color=F7710F&width=435&lines=Hi!+Welcome+to+Lu's+homepage!)](https://git.io/typing-svg)
+
 I received both my bachelor’s and master’s degrees in Mechanical Engineering from Central South University. During my studies, my research focused on developing algorithms and optimization methods to address high-performance gear design and manufacturing challenges.
 
 Currently, I am actively seeking a PhD position or a research assistant role with potential for a PhD. My research interest includes computational design, smart manufacturing, or advanced technologies in design and manufacturing like computer vision, VR, or human-robot collaboration. I am also open to discussing new research topics.
