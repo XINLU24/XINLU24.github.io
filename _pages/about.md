@@ -65,7 +65,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 **Master's Dissertation:**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cs.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cs.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
