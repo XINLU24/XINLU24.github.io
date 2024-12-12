@@ -70,13 +70,10 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Master.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/data-driven.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
 
-</div>
-</div>
+![image](https://github.com/XINLU24/XINLU24.github.io/blob/main/images/data-driven.png)
 
 </div>
 </div>
