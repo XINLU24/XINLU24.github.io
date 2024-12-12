@@ -73,7 +73,7 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 
 1.	**X. Lu**. The Error Compensation Technologies of the On-Machine Measurement of Face Gears Using Both Mechanism and Data-Driven Approaches. Central South University, 2023. 
 
-![image](https://github.com/XINLU24/XINLU24.github.io/blob/main/images/data-driven.png)
+![image](/images/data-driven.png)
 
 </div>
 </div>
