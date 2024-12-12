@@ -78,6 +78,9 @@ Currently, I am actively seeking a PhD position or a research assistant role wit
 </div>
 </div>
 
+</div>
+</div>
+
 **Patent:**
 
 1.	Y. Zhou, **X. Lu**, et al. An Optimization and Calculation Method, System, and Device for Measuring Errors of Face Gears. (National invention patent, Publication number: CN202311610175.X)
