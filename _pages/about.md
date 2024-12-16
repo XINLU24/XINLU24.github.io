@@ -21,7 +21,7 @@ redirect_from:
 
 I received both my bachelor’s and master’s degrees in Mechanical Engineering from Central South University. During my studies, my research focused on developing algorithms and optimization methods for high-performance gear design and manufacturing. Additionally, my past experience includes establishing data-driven machine learning model.
 
-Currently, I am seeking a PhD position or a research assistant role with potential for a PhD. My research interest includes computational design, smart manufacturing, or advanced technologies in design and manufacturing like computer vision, VR, or human-robot collaboration. I am also open to discussing new research topics.
+Currently, I am seeking a PhD position or a research assistant role with potential for a PhD. My research interest includes computational design, smart manufacturing, or advanced technologies in design and manufacturing. I am also open to discussing new research topics.
 
 # 📖 Educations
 
