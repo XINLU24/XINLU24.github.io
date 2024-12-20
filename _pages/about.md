@@ -40,7 +40,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 
 # 📝 Publications 
 
-**Research paper** (**Average Citation 7.33**, (JCR TOP3% Journal in the category of Engineering, Mechanical, JIF 7.3)):
+**Research paper** (**Average Citation 7.33**, (TOP 3% Journal in the JCR category of Engineering, Mechanical, JIF 7.3)):
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
