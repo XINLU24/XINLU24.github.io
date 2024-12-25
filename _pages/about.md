@@ -118,7 +118,7 @@ Oral presentation topic: Tooth Contact Analysis for Face Gears Reconstructed fro
 - Jul. 2019, Internship in CRRC (China Railway Rolling Stock Corp) 
 
 # 🧑‍🎨 Basic Skills
-- Language Skill: Chinese, Southern Min (Teochew), English (IELTS 6.5: S7, W6, R7, L5.5)
+- Language Skill: Chinese, English (IELTS 6.5: S7, W6, R7, L5.5)
 - Writing Skill: Academic Writing, Technical Writing (Project applications)
 - Computer Skill: Proficient in some specialized software, like MATLAB, Python, CATIA, Abaqus, etc., and software development (Developed over fifty thousand lines of code, including the core algorithms).
 - Operation Skill: Proficient in operating and controlling machines, such as coordinate measuring machines, 3D scanners, and machine tools.
