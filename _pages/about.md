@@ -26,7 +26,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 # 📖 Educations
 
 - Sep. 2020 – Jun. 2023: **Master** of Mechanical Engineering, Central South University (USNews 168, ARWU 94, 985 Project), GPA: 3.55/4.0 <br />
-  CSUgear Group led by Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China) and Prof. Yuansheng Zhou
+  CSUgear Group led by Prof. Jinyuan Tang (the Former Associate Director of the State Key Laboratory of Precision Manufacturing for Extreme Service Performances in China, WOS H-index: 33) and Prof. Yuansheng Zhou
 - Sep. 2016 – Jun. 2020: **Bachelor** of Mechanical Design, Manufacture and Automation, Central South University (USNews 168, ARWU 94, 985 Project), Weighted Average Score: 88.86/100.0, GPA: 3.75/4.0
 
 # 🎖 Honors and Awards
@@ -60,7 +60,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8)**
+3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8, Cited by the famous scholars Luis Norberto López de Lacalle (Google H-index: 81), and Han Ding (Member of the Chinese Academy of Engineering))**
 
 </div>
 </div>
