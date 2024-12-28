@@ -31,7 +31,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 
 # 🎖 Honors and Awards
 
-- **National Scholarship** (2022, 1%, the highest level award in the Chinese education system)
+- **National Scholarship** (2022, 1%, the highest-level award in the Chinese education system)
 - Honorary Title of **Outstanding Graduate** (2023, 3%), **Outstanding Student** (2022, 2018, 2017)
 - The Stipend of **Postgraduate Exam-exempted Recommendation** in China (2020, 10%)
 - Academic Scholarships, **First-Class** (2022, 2020), Second-Class (2018), Third-Class (2019, 2017)
