@@ -40,7 +40,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 
 # 📝 Publications 
 
-**Research paper** (**Average Citation 7.33**, (TOP 3% Journal in the JCR category of Engineering, Mechanical, JIF 7.3)):
+**Research paper** (**Average SCI Citations 7.33**, (TOP 3% Journal in the JCR category of Engineering, Mechanical, JIF 7.3)):
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -52,7 +52,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-2.**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. [DOI: 10.1016/j.mechmachtheory.2022.104960](https://doi.org/10.1016/j.mechmachtheory.2022.104960) **(First author, SCI Q1, TOP 10%, SCI Citation 13)**
+2.**X. Lu**, Y. Zhou, et al. A novel two-variable optimization algorithm of TCA for the design of face gear drives, Mechanism and Machine Theory, 175 (2022) 104960. [DOI: 10.1016/j.mechmachtheory.2022.104960](https://doi.org/10.1016/j.mechmachtheory.2022.104960) **(First author, SCI Q1, TOP 10%, SCI Citations 13)**
 
 </div>
 </div>
@@ -60,7 +60,7 @@ Currently, I am seeking a PhD position or a research assistant role with potenti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Paper3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citation 8, Cited by the famous scholars Luis Norberto López de Lacalle (Google H-index: 81), and Han Ding (Member of the Chinese Academy of Engineering))**
+3.**X. Lu**, X. Zhao, et al. A measurement solution of face gears with 3D optical scanning, Materials, 15 (2022) 6069. [DOI: 10.3390/ma15176069](https://doi.org/10.3390/ma15176069) **(First author, SCI Q1, SCI Citations 8, Cited by the famous scholars Luis Norberto López de Lacalle (Google H-index: 81), and Han Ding (Member of the Chinese Academy of Engineering))**
 
 </div>
 </div>
